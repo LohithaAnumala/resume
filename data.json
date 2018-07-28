@@ -1,0 +1,49 @@
+{"details":{
+  "image":"profile.jpg",
+  "name":"lohitha",
+  "phoneno":"7330761420",
+  "email":"anumalalohitha2015@gmail.com",
+  "address":"mic college of technology"
+},
+"carrer":{
+  "info":"TO PURSUE A CHALLENGING CARRER"
+},
+"education":[{
+  "qualification" : "BTECH",
+  "institute" : "MIC college",
+  "year" : "2016 - 2020",
+  "percentage" : "89%"
+},
+{
+  "qualification" : "Intermediate",
+  "institute" : "Srichaitanya",
+  "year" : "2014- 2016",
+  "percentage" : "96%"
+},
+{
+  "qualification" : "SSC",
+  "institute" : "ST.Johns public school",
+  "year" : "2014",
+  "percentage" : "9.5"
+}
+],
+
+"skills" : [{
+  "title":"programming language",
+  "info" : ["c,C++,JAVA,PYHTION,R"]
+  },
+  {
+    "title":"databases",
+    "info":["oracle,sql"]
+  },
+  {
+    "title":"OperatingSystems",
+    "info":["windows,linux,android"]
+  }
+],
+
+"achivements":{
+  "title":"achivements",
+"info":["prize in ppt,poster presentation"]
+}
+}
